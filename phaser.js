@@ -1,5 +1,3 @@
-// phaser.js - CORRECTION DES BUGS DE TRANSITION ET REDÉMARRAGE
-
 const config = {
     type: Phaser.AUTO,
     width: 800,
