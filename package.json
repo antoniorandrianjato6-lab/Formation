@@ -1,0 +1,24 @@
+{
+  "name": "formation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoniorandrianjato6-lab/Formation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/antoniorandrianjato6-lab/Formation/issues"
+  },
+  "homepage": "https://github.com/antoniorandrianjato6-lab/Formation#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
